@@ -1,1 +1,1 @@
-# Trilha JS Developer - Pokedex
+# Developer - Pokedex
